@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 759768778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51d82f2661122840317c7b6ff6fa9a6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8fc0ab47f50397c07005445f043c9761
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Example/BundleTest/Man.prefab
+Dependencies:
+- C:/Workspace/MillionDollars/Project/bundle/img.1

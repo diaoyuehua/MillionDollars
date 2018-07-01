@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2565341662
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: img.2
+      Dependencies: {}
+    Info_1:
+      Name: img.1
+      Dependencies: {}
+    Info_2:
+      Name: man
+      Dependencies:
+        Dependency_0: img.1

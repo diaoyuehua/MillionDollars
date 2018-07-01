@@ -1,0 +1,7 @@
+<root>
+  <bundle name="img.1" />
+  <bundle name="img.2" />
+  <bundle name="man">
+    <dep name="img.1" />
+  </bundle>
+</root>

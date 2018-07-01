@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 146489228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac2aaed98770e53da1d4211c466f1b5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Example/BundleTest/1/Tex.png
+Dependencies: []
